@@ -1,0 +1,14 @@
+C:\demoxunit\console\bin\Debug\net10.0\console.exe
+C:\demoxunit\console\bin\Debug\net10.0\console.deps.json
+C:\demoxunit\console\bin\Debug\net10.0\console.runtimeconfig.json
+C:\demoxunit\console\bin\Debug\net10.0\console.dll
+C:\demoxunit\console\bin\Debug\net10.0\console.pdb
+C:\demoxunit\console\obj\Debug\net10.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\demoxunit\console\obj\Debug\net10.0\console.AssemblyInfoInputs.cache
+C:\demoxunit\console\obj\Debug\net10.0\console.AssemblyInfo.cs
+C:\demoxunit\console\obj\Debug\net10.0\console.csproj.CoreCompileInputs.cache
+C:\demoxunit\console\obj\Debug\net10.0\console.dll
+C:\demoxunit\console\obj\Debug\net10.0\refint\console.dll
+C:\demoxunit\console\obj\Debug\net10.0\console.pdb
+C:\demoxunit\console\obj\Debug\net10.0\console.genruntimeconfig.cache
+C:\demoxunit\console\obj\Debug\net10.0\ref\console.dll
