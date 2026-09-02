@@ -6,18 +6,17 @@ public class PagoDeClasesTest
     public void SumTest()
     {
         // Arrange
-        const int precioBase = 5000;
         var pagoDeClase = new PagoDeClase();
 
         // Act
-        var result = pagoDeClase.Sum(precioBase);
+        var result = pagoDeClase.Sum(5000);
 
         // Assert
         Assert.Equal(10000, result);
     }
 
     [Fact]
-    public void SumTest2()
+    public void SumTestSiLaClaseSale6000()
     {
         // Arrange
         var pagoDeClase = new PagoDeClase();
@@ -26,20 +25,20 @@ public class PagoDeClasesTest
         var result = pagoDeClase.Sum(6000);
 
         // Assert
-        Assert.Equal(10000, result);
+        Assert.Equal(12000, result);
     }
-  [Fact]
-    public void SumTest3()
+
+ [Fact]
+    public void SumTestErrorResultado()
     {
         // Arrange
-        const int precioBase = 5000;
         var pagoDeClase = new PagoDeClase();
 
         // Act
-        var result = pagoDeClase.Sum(precioBase);
+        var result = pagoDeClase.Sum(5000);
 
         // Assert
-        Assert.Equal(35000, result);
-    }
-}
+        Assert.Equal(11000, result);
 
+}
+}

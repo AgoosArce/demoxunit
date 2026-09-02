@@ -12,3 +12,4 @@ C:\demoxunit\console\obj\Debug\net10.0\refint\console.dll
 C:\demoxunit\console\obj\Debug\net10.0\console.pdb
 C:\demoxunit\console\obj\Debug\net10.0\console.genruntimeconfig.cache
 C:\demoxunit\console\obj\Debug\net10.0\ref\console.dll
+c:\demoxunit\console\obj\Debug\net10.0\console.sourcelink.json

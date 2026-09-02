@@ -1,3 +1,4 @@
+
 public class PagoDeClase 
 {
     public int Sum(int precioBase)
